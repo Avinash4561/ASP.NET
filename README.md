@@ -1,2 +1,2 @@
 # ASP.NET
-All the projects developed on ASP.NET using C#
+Projects developed on ASP.NET using C#
