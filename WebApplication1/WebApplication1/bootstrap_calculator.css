@@ -1,0 +1,37 @@
+﻿#Title {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+
+#Inputs{
+    background-color:aqua;
+    border:1px solid #000000;
+    padding: 40px;
+    padding-left:250px;    
+}
+
+.Spacing_Input2 {
+    padding-left: 100px;
+}
+
+.Spacing_Result {
+    padding-left:280px;
+    font-size:40px;
+    color:orangered;    
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+    .grid-container > div {
+        background-color: rgba(255, 255, 255, 0.8);
+        text-align: center;
+        padding: 20px 0;
+        font-size: 30px;
+    }
